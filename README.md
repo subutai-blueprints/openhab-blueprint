@@ -1,2 +1,2 @@
 # openhab-blueprint
-Blueprint of OpenHAB for the Subutai Platform
+Blueprint of [OpenHAB](https://www.openhab.org/) for the Subutai Platform
